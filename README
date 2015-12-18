@@ -7,3 +7,5 @@ Homework 1 - Substiution Cipher + Vigenere
 Homework 2 - RSA
 Homework 3 - ElGamal + Chat Program using ElGamal & DES
 Homework 4 - Elliptic Curve
+
+Solutions to Homework 3 and 4 can be found under cs242_homework since the chat program shares the same codebase for that course.
